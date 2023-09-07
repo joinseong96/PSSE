@@ -1,5 +1,4 @@
 @media screen and (max-width: 1580px){
-    .psse_main_banner{height: calc(100vw*(576/1580));}
     .history_back_button{top: calc(100vw*(124/1580)); margin-left: calc(100vw*(-700/1580)); width: calc(100vw*(87/1580)); height: calc(100vw*(13/1580));}
     .main_banner_text{top: calc(100vw*(330/1580)); margin-left: calc(100vw*(-650/1580));}
     .main_banner_text h2{width: calc(100vw*(200/1580)); height: calc(100vw*(77/1580));}
@@ -105,7 +104,6 @@
 @media screen and (max-width: 769px){
     .pc_br{display: none;}
     .mb_br{display: block;}
-    .psse_main_banner{height: calc(100vw*(700/428));}
     .psse_main_banner img:first-of-type{display: none;}
     .psse_main_banner img:last-of-type{display: block;}
     .history_back_button{display: none;}
